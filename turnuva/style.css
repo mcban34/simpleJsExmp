@@ -1,0 +1,27 @@
+.parent {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.parent .teamsContent {
+  width: 400px;
+}
+.parent .teamsContent input, .parent .teamsContent button {
+  width: 100%;
+  height: 2rem;
+  margin-top: 1rem;
+}
+
+.anmyParent {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.anmyParent .left {
+  width: 30%;
+}
+.anmyParent .right {
+  width: 30%;
+}/*# sourceMappingURL=style.css.map */

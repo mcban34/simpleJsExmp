@@ -1,0 +1,11 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+}/*# sourceMappingURL=style.css.map */

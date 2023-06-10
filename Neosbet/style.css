@@ -1,0 +1,8 @@
+.oyun{
+  display: none;
+}
+input,button{
+  width: 90%;
+  height: 2rem;
+  margin-top: 1rem;
+}
